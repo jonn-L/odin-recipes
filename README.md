@@ -1,3 +1,3 @@
 # odin-recipes
-first project from the odin-project
-practice for the things I've learned so far
+- first project from the odin-project
+- practicing the things I've learned so far by making a website for dish recipes
